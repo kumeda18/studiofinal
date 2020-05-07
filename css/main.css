@@ -380,9 +380,9 @@
   .map-3-copy {
     position: absolute;
     left: 12.5%;
-    top: 532px;
+    top: auto;
     right: 0%;
-    bottom: 0%;
+    bottom: 5%;
     width: 32%;
     height: 125px;
     border: 1.5px solid #000;
